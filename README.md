@@ -78,7 +78,7 @@ const targetDate = new Date("2025-12-25T12:00:00");
 ```javascript
 const recipientName = "Kareena";
 const senderName = "Yash";
-const message = `Your message here...`;
+const message = `dear kareena, trial message daal rha hu to test...`;
 ```
 
 ---
