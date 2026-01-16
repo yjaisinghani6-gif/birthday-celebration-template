@@ -78,7 +78,7 @@ const targetDate = new Date("2025-12-25T12:00:00");
 ```javascript
 const recipientName = "Kareena";
 const senderName = "Yash";
-const message = `dear kareena, trial message daal rha hu to test...`;
+const message = ``Dear Kareena, I won't promise I will move mountains for you or bring the moon down, but I would wake up in the middle of the night to make aglio olio just to see you smile and even pronounce it right, if I go wrong with the first 100 pictures I click, I will click a 100 more until you find your perfect one, but to me every picture is perfect, just how you make my life by simply being in it. Happy birthday, my love
 ```
 
 ---
